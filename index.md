@@ -48,7 +48,7 @@
           <label class="control-label" for="date">Due Date</label>
           <input class="form-control" id="duedate" name="Due Date" placeholder="MM/DD/YYY" type="date"/>
         </div>
-    </form>
+   
 
         <br>
        

@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -23,8 +23,6 @@
   <h2>Add Task</h2>
   <div class="container">
 <form id="newtask">
-    <div></div> 
-    <div></div>
     <div class="row">
         <label type="text">Task Name</label>
         <div class="col-md-6">
@@ -55,10 +53,9 @@
         <br>
        </form>
     <br>
+ 
        <div></div>
-       <div></div>
-   <select class="Status Select" aria-label="Status">
-        <option selected>Status</option>
+  
         <option value="1">To-do</option>
         <option value="2">In-progress</option>
         <option value="3">Review</option>
@@ -73,7 +70,9 @@
     </form>
       </div>
     </div>
-</div>
+
+      </form>
+      
       <br>
       <br>
       <!--Task Card List-->

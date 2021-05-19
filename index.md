@@ -51,7 +51,7 @@
     </form>
 
         <br>
-       </form>
+       
     <br>
  
        <div></div>
@@ -104,6 +104,7 @@
                       <br>
                       <a href="#" class="card-link">Delete</a>
                     </div>
+              </div>
             </div>
         </div>
         <div class="list-item">

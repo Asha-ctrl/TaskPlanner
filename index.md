@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -55,7 +55,8 @@
     <br>
  
        <div></div>
-  
+  <select class="Status Select" aria-label="Status">
+        <option selected>Status</option>
         <option value="1">To-do</option>
         <option value="2">In-progress</option>
         <option value="3">Review</option>
@@ -67,11 +68,9 @@
 
       <div class="form-group"> <!-- Submit button -->
         <button class="btn btn-primary " name="submit" type="submit">Submit</button>
-    </form>
       </div>
     </div>
 
-      </form>
       
       <br>
       <br>
@@ -106,7 +105,6 @@
                       <a href="#" class="card-link">Delete</a>
                     </div>
             </div>
-          </div>
         </div>
         <div class="list-item">
           <h2 class="accordion-header" id="tasktwo">
